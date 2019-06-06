@@ -8,7 +8,7 @@ Sections 1 of 6 of the course are not detailed in this GitHub repository as they
 
 On a side note, Section 5 of the course gives a quick walkthrough for a **Databricks Setup.**
 
-In case your computer runs a Linux distrobution (like mine), I recommend the following steps:
+In case your computer runs a Linux distribution (like mine), I recommend the following steps:
 - Install anaconda on your computer.
 - Then from your terminal, execute the following.
   - ```conda update conda```
