@@ -18,7 +18,7 @@ In case your computer runs a Linux distrobution (like mine), I recommend the fol
   - The above was grabbed from https://stackoverflow.com/questions/53583199/pyspark-error-unsupported-class-file-major-version-55
 
 Sections 7 up until 17 are chronologically laid in in the course_walkthrough folder.  Here are the links to quickly jump to the section of interest:
-- (Python Crash Course)[https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_07__python_crash_course]
+- [Python Crash Course](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_07__python_crash_course)
 
 Each sub-folder under ```course_walkthrough``` is a standalone section complete with all the notebooks, slides, and data files you will need to complete the section.  Additionally, the instructor's resources for the corresponding section are stored in the sub-folders named ```instructors_notebooks```.
 
