@@ -2,7 +2,7 @@
 
 Sections 1 of 6 of the course are not detailed in this GitHub repository, as they cover setting up Python with Spark, and a high-level introduction to the course.
 
-**I strongly recommend following Section 3:  Local VirtualBox Set-up if you are running Windows/Mac.**
+**I strongly recommend following "Section 3:  Local VirtualBox Set-up" if you are running Windows/Mac.**
 
 In case your computer runs a Linux distrobution (like mine), I recommend the following steps:
 - Install anaconda on your computer.
