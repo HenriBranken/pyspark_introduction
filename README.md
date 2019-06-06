@@ -1,8 +1,12 @@
 # Spark and Python for Big Data with PySpark.
 
+The coding and material found in this repository is based of a [Udemy Course](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark)
+
 Sections 1 of 6 of the course are not detailed in this GitHub repository as they cover setting up Python with Spark as well as a high-level introduction to the course.
 
 **I strongly recommend following "Section 3:  Local VirtualBox Set-up" if you are running Windows/Mac.**
+
+On a side note, Section 5 of the course gives a quick walkthrough for a **Databricks Setup.**
 
 In case your computer runs a Linux distrobution (like mine), I recommend the following steps:
 - Install anaconda on your computer.
@@ -17,7 +21,7 @@ In case your computer runs a Linux distrobution (like mine), I recommend the fol
   - ```java -version```
   - The above was grabbed from https://stackoverflow.com/questions/53583199/pyspark-error-unsupported-class-file-major-version-55
 
-Sections 7 up until 17 are chronologically laid in in the course_walkthrough folder.  Here are the links to quickly jump to the section of interest:
+Sections 7 up until 17 are chronologically laid in in the ```course_walkthrough``` folder.  Here are the links to quickly jump to the section of interest:
 - [Section 7, Python Crash Course](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_07__python_crash_course)
 - [Section 8, Spark DataFrame Basics](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_08__Spark_DataFrame_Basics)
 - [Section 9, Spark DataFrame Project Exercise](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_09__Spark_DataFrame_Project_Exercise)
@@ -34,10 +38,10 @@ Each sub-folder under ```course_walkthrough``` is a standalone section complete 
 
 It is recommended to complete the reading assignments as prompted by the instructor during his presentations, however it is not compulsory.
 
-The ```.pdf``` file ```Introduction_to_Statistical_Learning__Gareth_James__2013.pdf```, under the ```course_walkthrough``` folder, contains all the contents for carrying out the reading assignments.
+The ```.pdf``` file [```Introduction_to_Statistical_Learning__Gareth_James__2013.pdf```](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/blob/master/course_walkthrough/Introduction_to_Statistical_Learning__Gareth_James__2013.pdf), under the ```course_walkthrough``` folder, contains all the contents for carrying out the reading assignments.
 
-You will notice that my Python Notebooks contain verbose comments.  This feature will be more appreciated if, say, you review the material in this repo after a year from now.
+You will notice that my ```Python``` Notebooks contain verbose comments.  This feature will be more appreciated if, say, you review the material in this repo after a year from now.
 The comments are there to help the learning experience and clarify the concepts underpinning the coding.
 
-All the best when working through this material,
+All the best when working through this material,  
 Henri.
