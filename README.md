@@ -19,7 +19,7 @@ In case your computer runs a Linux distrobution (like mine), I recommend the fol
   - ```sudo apdate-alternatives --config java```
   - Select ```Java 8```, and then confirm your changes:
   - ```java -version```
-  - The above was grabbed from https://stackoverflow.com/questions/53583199/pyspark-error-unsupported-class-file-major-version-55
+  - The above was grabbed from [this link](https://stackoverflow.com/questions/53583199/pyspark-error-unsupported-class-file-major-version-55)
 
 Sections 7 up until 17 are chronologically laid in in the ```course_walkthrough``` folder.  Here are the links to quickly jump to the section of interest:
 - [Section 7, Python Crash Course](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_07__python_crash_course)
