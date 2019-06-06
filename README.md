@@ -18,7 +18,17 @@ In case your computer runs a Linux distrobution (like mine), I recommend the fol
   - The above was grabbed from https://stackoverflow.com/questions/53583199/pyspark-error-unsupported-class-file-major-version-55
 
 Sections 7 up until 17 are chronologically laid in in the course_walkthrough folder.  Here are the links to quickly jump to the section of interest:
-- [Python Crash Course](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_07__python_crash_course)
+- [Section 7, Python Crash Course](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_07__python_crash_course)
+- [Section 8, Spark DataFrame Basics](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_08__Spark_DataFrame_Basics)
+- [Section 9, Spark DataFrame Project Exercise](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_09__Spark_DataFrame_Project_Exercise)
+- [Section 10, Introduction to Machine Learning with MLlib](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_10__Introduction_to_Machine_Learning_with_MLlib)
+- [Section 11, Linear Regression](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_11__Linear_Regression)
+- [Section 12, Logistic Regression](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_12__Logistic_Regression)
+- [Section 13, Decision Trees and Random Forests](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_13__Decision_Trees_and_Random_Forests)
+- [Section 14, K-means Clustering](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_14__K-means_Clustering)
+- [Section 15, Collaborative Filtering for Recommender Systems](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_15__Collaborative_Filtering_for_Recommender_Systems)
+- [Section 16, Natural Language Processing](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_16__Natural_Language_Processing)
+- [Section 17, Spark Streaming with Python](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/tree/master/course_walkthrough/section_17__Spark_Streaming_with_Python)
 
 Each sub-folder under ```course_walkthrough``` is a standalone section complete with all the notebooks, slides, and data files you will need to complete the section.  Additionally, the instructor's resources for the corresponding section are stored in the sub-folders named ```instructors_notebooks```.
 
