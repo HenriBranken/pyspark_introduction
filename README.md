@@ -4,7 +4,7 @@ The coding and material found in this repository is based of a [MOOC Course](htt
 
 Sections 1 of 6 of the course are not detailed in this GitHub repository as they cover setting up Python with Spark as well as a high-level introduction to the course.
 
-**I strongly recommend following "Section 3:  Local VirtualBox Set-up" if you are running Windows/Mac.**
+**I strongly recommend following "Section 3:  Local VirtualBox Set-up" if you are running Windows/Mac.  You will in any case need the VirtualBox setup for _Section 17_ of the course dealing with Spark streaming.**
 
 On a side note, Section 5 of the course gives a quick walkthrough for a **Databricks Setup.**
 
@@ -45,3 +45,5 @@ The comments are there to help the learning experience and clarify the concepts 
 
 All the best when working through this material,  
 Henri.
+
+頑張って
