@@ -40,7 +40,7 @@ It is recommended to complete the reading assignments as prompted by the instruc
 
 The ```.pdf``` file [```Introduction_to_Statistical_Learning__Gareth_James__2013.pdf```](https://github.com/HenriBranken/spark_and_python_for_big_data_with_pyspark/blob/master/course_walkthrough/Introduction_to_Statistical_Learning__Gareth_James__2013.pdf), under the ```course_walkthrough``` folder, contains all the contents for carrying out the reading assignments.
 
-You will notice that my ```Python``` Notebooks contain verbose comments.  This feature will be more appreciated if, say, you review the material in this repo after a year from now.
+You will notice that my ```Python``` Notebooks contain verbose comments.  This feature will be appreciated if, say, you review the material in this repo after a year from now.
 The comments are there to help the learning experience and clarify the concepts underpinning the coding.
 
 All the best when working through this material,  
