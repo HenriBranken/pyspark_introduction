@@ -1,7 +1,5 @@
 # Spark and Python for Big Data with PySpark.
 
-I am currently in a demo showing to MAI team the very basics of **Git**.
-
 The coding and material found in this repository is based of a [MOOC Course.](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark)
 
 Sections 1 of 6 of the course are not detailed in this GitHub repository as they cover setting up Python with Spark as well as a high-level introduction to the course.
